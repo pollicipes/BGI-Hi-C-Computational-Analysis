@@ -1,5 +1,5 @@
 # BGI-HiC-Computational-Analysis
-Scripts to analyze BGI HiC data and produce contact maps
+Scripts to analyze BGI HiC data and produce matrices and contact maps
 
 ### Installation:
 Detailed instructions come within the `.ipynb` or `.html` flavours of the protocol `BGI HiC computational analysis  (Sandoval-Velasco et al., 2020)`
