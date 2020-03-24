@@ -1,5 +1,5 @@
-# BGI-HiC-Computational-Analysis
-Scripts to analyze BGI HiC data and produce matrices and contact maps
+# BGI-HiC-Computational-Analysis 
+Scripts to analyze BGI HiC data and produce matrices and contact maps, as showed in Sandoval-Velasco *et al.,* (under review) paper titled: *"Hi-C chromosome conformation capture sequencing of avian genomes using the BGISEQ-500 platform"*
 
 ### Installation:
 Detailed instructions come within the `.ipynb` or `.html` flavours of the protocol `BGI HiC computational analysis  (Sandoval-Velasco et al., 2020)`
