@@ -4,11 +4,12 @@ Scripts to analyze BGI HiC data and produce matrices and contact maps
 ### Installation:
 Detailed instructions come within the `.ipynb` or `.html` flavours of the protocol `BGI HiC computational analysis  (Sandoval-Velasco et al., 2020)`
 
-## HTML text version:
+### HTML text version:
 
 If the Jupyter Notebook world is not something you are into, it serves as well as a bioinformatics protocol to perform your analysis. Just download the `BGI HiC computational analysis  (Sandoval-Velasco et al., 2020).html` version, open it with any web browser and copy the instructions in order to your Terminal, run it, and it will work just fine.
 
 ### Using Jupyter Notebook:
+
 Download the `BGI HiC computational analysis  (Sandoval-Velasco et al., 2020).ipynb` file and open it in Jupyter Notebook. See https://jupyter.org/install.html for details on installation. Make sure you install the Jupyter Notebook, and **NOT** the Jupyter Lab. Installation should not take more than 10-15 minutes on a desktop computer.
 
 This notebook just contains the instructions to go from the `*.fastq` files to the generation of HiC matrices in the paper.
