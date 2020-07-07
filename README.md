@@ -17,6 +17,21 @@ The software used is TADBit (Serra et al., 2017), invoked through the command li
 
 If you install the Jupyter Notebook bash kernel (more info http://slhogle.github.io/2017/bash_jupyter_notebook/) you can directly run the commands in-situ in the notebook. Alternatively, you can run bash within the Jupyter Notebook default Python kernel if you add the characters: `%%bash` to the beggining of the each execution cell, so that the interpreter knows that it should use bash, and not Python, as the interpreter to use.
 
+### **NOTE** regarding supplementary figures S2 and S3 on the paper:
+Once the mapping is done, check your working directory for the QC plots of the HiC digestion and histograms of the fragment size distribution. These two kinds of plots are generated always by TADbit as default after the mapping process.
+
+### **NOTE** regarding tables 1 and 2 in the paper:
+You can get the numbers for the statistics we use if you run the `tadbit describe` command. It will display a record of everything that has been run on that folder. Also, it shows some statistics regarding mapping, filters and others.
+
+*TABLE 1:*
+
+Check above **section 1.3** for the `tadbit describe` command on how to get the stats for the numbers in table 1.
+Data for the fields in the table named `% Digested sites (out of 100K reads)` and `% Reads with ligation site (out of 100K reads)` was obtained from the QC plot we obtain after the mapping (*See section 1.4 above*). 
+
+*TABLE 2:*
+
+Data from this table was directly imported from the filters section after running the the `tadbit describe` command. Check above **section 1.3** on how to run it and get the stats for the filters you see in table 2.
+
 
 #### References:
 
