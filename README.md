@@ -26,12 +26,13 @@ You can get the numbers for the statistics we use if you run the `tadbit describ
 *TABLE 1:*
 
 Check above **section 1.3** for the `tadbit describe` command on how to get the stats for the numbers in table 1.
-Data for the fields in the table named `% Digested sites (out of 100K reads)` and `% Reads with ligation site (out of 100K reads)` was obtained from the QC plot we obtain after the mapping (*See section 1.4 above*). 
+Data for the fields in the table named `% Digested sites (out of 100K reads)` and `% Reads with ligation site (out of 100K reads)` was obtained from the QC plot we obtain after the mapping.
 
 *TABLE 2:*
 
-Data from this table was directly imported from the filters section after running the the `tadbit describe` command. Check above **section 1.3** on how to run it and get the stats for the filters you see in table 2.
+Data from this table was directly imported from the filters section after running the the `tadbit describe` command. 
 
+See the main protocol `BGI HiC computational analysis  (Sandoval-Velasco et al., 2020).ipynb` for further details.
 
 #### References:
 
