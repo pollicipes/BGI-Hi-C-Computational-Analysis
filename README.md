@@ -20,7 +20,7 @@ If you install the Jupyter Notebook bash kernel (more info http://slhogle.github
 ### **NOTE 1:** Regarding supplementary figures S2 and S3 on the paper:
 Follow the protocol with TADbit, and once the mapping is done, check your working directory for the QC plots of the HiC digestion and histograms of the fragment size distribution. These two kinds of plots are generated always by TADbit as default after the mapping process.
 
-### **NOTE 2** Regarding tables 1 and 2 in the paper:
+### **NOTE 2:** Regarding tables 1 and 2 in the paper:
 You can get the numbers for the statistics we use if you run the `tadbit describe` command. It will display a record of everything that has been run on that folder. Also, it shows some statistics regarding mapping, filters and others.
 
 *TABLE 1:*
